@@ -1,0 +1,142 @@
+body {
+    font-family: 'Titillium Web';
+    background-color:aliceblue;
+}
+
+main {
+    text-align: center;
+    font-size: large;
+}
+
+li {
+    list-style: none;
+}
+
+.container legend {
+    font-size:40px;
+    text-align: center;
+}
+
+.container fieldset {
+    width: auto;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+    margin-bottom: 10px;
+    margin: 20px;
+}
+
+legend {
+    background-color:aliceblue;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.color {
+    display: flex;
+    place-content: center;
+}
+
+.color div {
+    width: 50%;
+}
+
+.wheat {
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: #EAD2AC;
+    text-align: center;
+}
+
+.coral {
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: #DF928E;
+    text-align: center;
+}
+
+.rose {
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 20px;
+    margin: 10px;
+    background-color:#C58882;
+    text-align: center;
+}
+
+.plat {
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: #d1dede;
+    text-align: center;
+}
+
+.black {
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 20px;
+    margin: 10px;
+    background-color: #1D201F;
+    text-align: center;
+}
+
+.color div {
+    color: white;
+}
+
+.ft {
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+.shadow {
+    font-family: 'Shadows Into Light';
+    font-size: 25px;
+}
+
+.amatic {
+    font-family: 'Amatic SC';
+    font-size: 30px;
+}
+
+.lobster {
+    font-family: 'Lobster Two';
+    font-size: 25px;
+}
+
+.ps {
+    font-family: 'Press Start 2P';
+}
+
+.style h2 {
+    font-family: 'Amatic SC';
+}
+
+.style section {
+    font-family: 'Lobster Two';
+}
+
+.style article {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.style div {
+    font-size: 30px;
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
+    background-color: white;
+
+}
